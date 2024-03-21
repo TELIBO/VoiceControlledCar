@@ -22,7 +22,7 @@ The Arduino code provided allows you to control the movements of a car using voi
 
 ## Wiring Diagram
 
-![image 1](Screenshot 2023-09-22 221948.png)
+![image 1](wiringdiagram.png)
 
 ## Usage
 
