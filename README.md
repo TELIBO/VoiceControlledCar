@@ -29,7 +29,7 @@ In a world increasingly dominated by electronic devices, it becomes crucial to p
 ## Setup
 
 1. Connect the Voice Recognition Module to the Arduino board according to the wiring diagram.
-2. Upload the `voice_controlled_car.ino` sketch to the Arduino board.
+2. Upload the `sketch_dec6.ino` sketch to the Arduino board.
 3. Dounload the v3 library- https://github.com/elechouse/VoiceRecognitionV3
 4. Power on the Arduino board and Voice Recognition Module.
 5. Speak voice commands (e.g., "forward", "left", "stop") to control the car.
